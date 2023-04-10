@@ -5,10 +5,10 @@
 
 ```shell
 # install
-$ npm install -g @hdliang/cy-cli
+$ npm install -g @hanxzi-cli/hdliang-cli
 
 # or yarn
-$ yarn global add @hdliang/cy-cli
+$ yarn global add @hanxzi-cli/hdliang-cli
 ```
 
 ### 使用 
@@ -16,5 +16,5 @@ $ yarn global add @hdliang/cy-cli
 #### Quick Start 
 
 ```shell
-$ cy create <name>
+$ hdliang-cli create <name>
 ```

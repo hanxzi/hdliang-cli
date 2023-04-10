@@ -1,10 +1,10 @@
 {
-  "name": "@hdliang/cy-cli",
-  "version": "1.0.0",
-  "description": "frontend template cli tool",
+  "name": "@hanxzi-cli/hdliang-cli",
+  "version": "1.0.1",
+  "description": "cli tool",
   "main": "index.js",
   "bin": {
-    "cy": "./bin/cli.js"
+    "hdliang-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,10 +14,9 @@
     "url": "git+https://github.com/hanxzi/hdliang-cli.git"
   },
   "keywords": [
-    "cli",
-    "my-cli"
+    "cli"
   ],
-  "author": "han dong liang",
+  "author": "hanxzi@163.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hanxzi/hdliang-cli/issues"
